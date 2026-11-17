@@ -2,6 +2,10 @@
 
 [onepaste](https://onepaste.dev) is a gallery of animated landing pages. Every template has a prompt you copy into an AI builder such as Lovable, v0, Bolt, Claude or Cursor, and the builder recreates the page.
 
+[![onepaste.dev: the hero and the whole template library](media/onepaste-library-overview.webp)](https://onepaste.dev/?utm_source=github)
+
+[Full video (MP4)](media/onepaste-library-overview.mp4)
+
 This repository holds the showcase for the whole gallery: an animated preview of every template, and the full prompt for the free ones. Premium templates are shown as previews only. To get their prompts, open the template page on onepaste.dev.
 
 Licence: the MIT licence covers only the free content here (this README and the free prompts in `templates/`). The previews are not MIT-licensed. See [LICENSE](LICENSE).
